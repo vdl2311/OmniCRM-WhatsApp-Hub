@@ -1,0 +1,8 @@
+{
+  "name": " OmniCRM \u0026 WhatsApp Hub",
+  "description": "Sistema completo de CRM e Atendimento WhatsApp com Funil Kanban, Automações, Gestão de Leads, Indicadores e Central de Conversas Multiusuário.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
